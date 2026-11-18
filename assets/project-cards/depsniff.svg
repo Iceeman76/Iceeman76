@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="368" height="112" viewBox="0 0 368 112">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112">
   <title>DepSniff</title>
   <desc>A .NET command-line tool for finding redundant or unused NuGet packages and project references, using Roslyn and MSBuild.</desc>
   <style>
@@ -11,11 +11,11 @@
       .description { fill: #b1bac4; }
     }
   </style>
-  <rect class="card" x=".5" y=".5" width="367" height="111" rx="8"/>
+  <rect class="card" x=".5" y=".5" width="399" height="111" rx="8"/>
   <text class="name" x="16" y="26" font-family="Segoe UI, sans-serif" font-size="16" font-weight="600">DepSniff</text>
   <text class="description" font-family="Segoe UI, sans-serif" font-size="14">
-    <tspan x="16" y="48">A .NET command-line tool for finding redundant or</tspan>
-    <tspan x="16" y="65">unused NuGet packages and project references, using</tspan>
-    <tspan x="16" y="82">Roslyn and MSBuild.</tspan>
+    <tspan x="16" y="48">A .NET command-line tool for finding redundant or unused</tspan>
+    <tspan x="16" y="65">NuGet packages and project references, using Roslyn and</tspan>
+    <tspan x="16" y="82">MSBuild.</tspan>
   </text>
 </svg>
