@@ -12,16 +12,16 @@
 ### Libraries & Fundamentals
 
 <p align="center">
-  <a href="https://github.com/Iceeman76/Json"><img src="assets/json-rounded.svg" alt="Json project artwork" width="48%" /></a>&nbsp;
-  <a href="https://github.com/Iceeman76/CompressedGuid"><img src="assets/compressedguid-rounded.svg" alt="CompressedGuid project artwork" width="48%" /></a>
+  <a href="https://github.com/Iceeman76/Json"><img src="assets/json-rounded.svg" alt="Json project artwork" width="38%" /></a>&nbsp;
+  <a href="https://github.com/Iceeman76/CompressedGuid"><img src="assets/compressedguid-rounded.svg" alt="CompressedGuid project artwork" width="38%" /></a>
 </p>
 
 - **[Json](https://github.com/Iceeman76/Json)** — A navigable JSON tree with JSONPath-like queries, builders and field extraction.
 - **[CompressedGuid](https://github.com/Iceeman76/CompressedGuid)** — Compact, URL-safe, 22-character GUIDs with an immutable, thread-safe API.
 
 <p align="center">
-  <a href="https://github.com/Iceeman76/KeyGenerator"><img src="assets/keygenerator-rounded.svg" alt="KeyGenerator project artwork" width="48%" /></a>&nbsp;
-  <a href="https://github.com/Iceeman76/BigInt"><img src="assets/bigint-rounded.svg" alt="BigInt project artwork" width="48%" /></a>
+  <a href="https://github.com/Iceeman76/KeyGenerator"><img src="assets/keygenerator-rounded.svg" alt="KeyGenerator project artwork" width="38%" /></a>&nbsp;
+  <a href="https://github.com/Iceeman76/BigInt"><img src="assets/bigint-rounded.svg" alt="BigInt project artwork" width="38%" /></a>
 </p>
 
 - **[KeyGenerator](https://github.com/Iceeman76/KeyGenerator)** — Create and validate signed tokens with strongly typed payloads and HMAC signatures.
@@ -30,8 +30,8 @@
 ### Tools & Integrations
 
 <p align="center">
-  <a href="https://github.com/Iceeman76/LichessBridge"><img src="assets/lichessbridge-rounded.svg" alt="LichessBridge project artwork" width="48%" /></a>&nbsp;
-  <a href="https://github.com/Iceeman76/M3UProxy"><img src="assets/m3uproxy-rounded.svg" alt="M3UProxy project artwork" width="48%" /></a>
+  <a href="https://github.com/Iceeman76/LichessBridge"><img src="assets/lichessbridge-rounded.svg" alt="LichessBridge project artwork" width="38%" /></a>&nbsp;
+  <a href="https://github.com/Iceeman76/M3UProxy"><img src="assets/m3uproxy-rounded.svg" alt="M3UProxy project artwork" width="38%" /></a>
 </p>
 
 - **[LichessBridge](https://github.com/Iceeman76/LichessBridge)** — Connect a WinBoard/2 chess engine to Lichess Bot games, with live analysis and controls.
@@ -40,7 +40,7 @@
 ### Puzzles & Algorithms
 
 <p align="center">
-  <a href="https://github.com/Iceeman76/Sudoku"><img src="assets/sudoku-rounded.svg" alt="Sudoku project artwork" width="58%" /></a>
+  <a href="https://github.com/Iceeman76/Sudoku"><img src="assets/sudoku-rounded.svg" alt="Sudoku project artwork" width="46%" /></a>
 </p>
 
 - **[Sudoku](https://github.com/Iceeman76/Sudoku)** — A high-performance Sudoku solver combining logical deduction, backtracking and parallel batch solving.
